@@ -1,5 +1,7 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: CourseSection
 title: Syllabus
 uid: a82f8a68-143e-8691-fe35-eac0852f703b
 ---
@@ -18,7 +20,7 @@ Apostol, Tom M. _Calculus, Volume 1: One-Variable Calculus, with An Introduction
 
 (Vol. 2 will be needed for those who wish to continue on to 18.024 Multivariable calculus with theory.)
 
-Additional [course notes](http://ocw2.mit.edu/courses/mathematics/18-014-calculus-with-theory-fall-2010/course-notes) by James Raymond Munkres, Professor of Mathematics, Emeritus, are also provided.
+Additional [course notes]({{< baseurl >}}/pages/course-notes) by James Raymond Munkres, Professor of Mathematics, Emeritus, are also provided.
 
 Prerequisites
 -------------

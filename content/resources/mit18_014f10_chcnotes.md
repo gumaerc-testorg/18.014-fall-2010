@@ -1,8 +1,13 @@
 ---
 content_type: resource
 description: This resource contains information about the Riemann condition.
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/18-014-calculus-with-theory-fall-2010/a34bec8f9e5f9390df8843bfab35168a_MIT18_014F10_ChCnotes.pdf
+file: /media/courses/18-014-calculus-with-theory-fall-2010/a34bec8f9e5f9390df8843bfab35168a_MIT18_014F10_ChCnotes.pdf
 file_type: application/pdf
+learning_resource_types:
+- Lecture Notes
+ocw_type: OCWFile
+parent_title: Course Notes
+parent_type: CourseSection
 resourcetype: Document
 title: MIT18_014F10_ChCnotes.pdf
 uid: a34bec8f-9e5f-9390-df88-43bfab35168a
