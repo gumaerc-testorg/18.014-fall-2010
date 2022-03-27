@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Exams
 parent_type: CourseSection
+parent_uid: 7c636697-67b6-b45d-2c14-bde3d6d544bc
 resourcetype: Document
 title: MIT18_014F10_ex1_sols.pdf
 uid: 57ad34b8-1ffa-c785-8c38-f3985d07a397

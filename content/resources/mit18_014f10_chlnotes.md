@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Course Notes
 parent_type: CourseSection
+parent_uid: 525fc43f-560b-3421-6094-8a3bd93e93d6
 resourcetype: Document
 title: MIT18_014F10_ChLnotes.pdf
 uid: f231ac76-1175-0534-a668-b22b99dd760f

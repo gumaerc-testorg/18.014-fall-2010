@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: 09800893-0e69-84c6-eff3-3bb84ba9d6a4
 resourcetype: Document
 title: MIT18_014F10_pset2sols.pdf
 uid: 8c6d9854-d47e-dac1-3133-49289e0236cf

@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Exams
 parent_type: CourseSection
+parent_uid: 7c636697-67b6-b45d-2c14-bde3d6d544bc
 resourcetype: Document
 title: MIT18_014F10_final_pr_ex.pdf
 uid: f25a2e40-6f54-2fc1-c80c-b29b7b053fe3
