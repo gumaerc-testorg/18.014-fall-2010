@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section lists the problems reviewed from the course textbook for
+  each recitation of the course.
 learning_resource_types:
 - Recitations
 ocw_type: CourseSection

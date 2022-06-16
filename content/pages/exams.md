@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section provides exams and practice exams, with solutions. The final
+  exam is not available.
 learning_resource_types:
 - Exams
 ocw_type: CourseSection
@@ -35,17 +37,17 @@ SOLUTIONS
 {{< tdopen >}}
 
 
-Practice exam 1 ([PDF]({{< baseurl >}}/resources/mit18_014f10_pr_ex1))
+Practice exam 1 ({{% resource_link 65b367b2-93ca-1258-9437-f9595f315025 "PDF" %}})
 
-Practice exam 1 solutions ([PDF]({{< baseurl >}}/resources/mit18_014f10_pr_ex1_sols))
+Practice exam 1 solutions ({{% resource_link 4132492a-f0a0-b20a-f8a8-203344e9f7ff "PDF" %}})
 
 
 {{< tdclose >}}
 {{< tdopen >}}
-Exam 1 ([PDF]({{< baseurl >}}/resources/mit18_014f10_ex1))
+Exam 1 ({{% resource_link f5d8d537-87f2-3807-cefa-1e5adb2d4b33 "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
-Exam 1 solutions ([PDF]({{< baseurl >}}/resources/mit18_014f10_ex1_sols))
+Exam 1 solutions ({{% resource_link 57ad34b8-1ffa-c785-8c38-f3985d07a397 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -56,17 +58,17 @@ Exam 1 solutions ([PDF]({{< baseurl >}}/resources/mit18_014f10_ex1_sols))
 {{< tdopen >}}
 
 
-Practice exam 2 ([PDF]({{< baseurl >}}/resources/mit18_014f10_pr_ex2))
+Practice exam 2 ({{% resource_link 0fda7f5e-3dda-975b-845a-bc3109be0251 "PDF" %}})
 
-Practice exam 2 solutions ([PDF]({{< baseurl >}}/resources/mit18_014f10_pr_ex2_sols))
+Practice exam 2 solutions ({{% resource_link 117f0a32-0401-9670-41fe-274a1058c27f "PDF" %}})
 
 
 {{< tdclose >}}
 {{< tdopen >}}
-Exam 2 ([PDF]({{< baseurl >}}/resources/mit18_014f10_ex2))
+Exam 2 ({{% resource_link 69fead21-52f0-3121-8fc1-ab9f586a1734 "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
-Exam 2 solutions ([PDF]({{< baseurl >}}/resources/mit18_014f10_ex2_sols))
+Exam 2 solutions ({{% resource_link d3126ef4-d9bc-215b-628b-e1e9e60469ea "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -77,17 +79,17 @@ Exam 2 solutions ([PDF]({{< baseurl >}}/resources/mit18_014f10_ex2_sols))
 {{< tdopen >}}
 
 
-Practice exam 3 ([PDF]({{< baseurl >}}/resources/mit18_014f10_pr_ex3))
+Practice exam 3 ({{% resource_link aff706a7-22ce-ef11-764a-dc6b49038e6a "PDF" %}})
 
-Practice exam 3 solutions ([PDF]({{< baseurl >}}/resources/mit18_014f10_pr_ex3_sols))
+Practice exam 3 solutions ({{% resource_link 19badd55-bc0b-7173-ba90-cd9f22dc7515 "PDF" %}})
 
 
 {{< tdclose >}}
 {{< tdopen >}}
-Exam 3 ([PDF]({{< baseurl >}}/resources/mit18_014f10_ex3))
+Exam 3 ({{% resource_link 779f9f21-841d-335d-b137-311db22ccaa4 "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
-Exam 3 solutions ([PDF]({{< baseurl >}}/resources/mit18_014f10_ex3_sols))
+Exam 3 solutions ({{% resource_link 0b460fcd-7796-6a46-542a-2736dc255c25 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -96,7 +98,7 @@ Exam 3 solutions ([PDF]({{< baseurl >}}/resources/mit18_014f10_ex3_sols))
 Final
 {{< tdclose >}}
 {{< tdopen >}}
-Practice problems for the final exam ([PDF]({{< baseurl >}}/resources/mit18_014f10_final_pr_ex))
+Practice problems for the final exam ({{% resource_link f25a2e40-6f54-2fc1-c80c-b29b7b053fe3 "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
  \[Not Available\]
