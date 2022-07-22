@@ -5,6 +5,7 @@ file: /courses/18-014-calculus-with-theory-fall-2010/d915532547a80d9d21007c57e59
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Course Notes
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: MIT18_014F10_ChNnotes.pdf
 uid: d9155325-47a8-0d9d-2100-7c57e59c3e0a
 ---
 This resource contains information about integration.
-

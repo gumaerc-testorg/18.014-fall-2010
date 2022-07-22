@@ -6,6 +6,7 @@ file: /courses/18-014-calculus-with-theory-fall-2010/57ad34b81ffac7858c38f3985d0
 file_type: application/pdf
 learning_resource_types:
 - Exams
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Exams
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: MIT18_014F10_ex1_sols.pdf
 uid: 57ad34b8-1ffa-c785-8c38-f3985d07a397
 ---
 This resource contains information about integrable function and Properties of the integral imply.
-

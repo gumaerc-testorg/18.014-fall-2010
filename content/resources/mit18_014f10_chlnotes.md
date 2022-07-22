@@ -5,6 +5,7 @@ file: /courses/18-014-calculus-with-theory-fall-2010/f231ac7611750534a668b22b99d
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Course Notes
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: MIT18_014F10_ChLnotes.pdf
 uid: f231ac76-1175-0534-a668-b22b99dd760f
 ---
 This resource contains information about the trigonometric functions.
-

@@ -5,6 +5,7 @@ file: /courses/18-014-calculus-with-theory-fall-2010/a34bec8f9e5f9390df8843bfab3
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Course Notes
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: MIT18_014F10_ChCnotes.pdf
 uid: a34bec8f-9e5f-9390-df88-43bfab35168a
 ---
 This resource contains information about the Riemann condition.
-

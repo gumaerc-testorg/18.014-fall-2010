@@ -5,6 +5,7 @@ file: /courses/18-014-calculus-with-theory-fall-2010/e89e486cd574573504df2221784
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Course Notes
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: MIT18_014F10_ChTnotes.pdf
 uid: e89e486c-d574-5735-04df-22217846184c
 ---
 This resource contains information about fourier series.
-

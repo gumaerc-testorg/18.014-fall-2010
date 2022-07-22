@@ -6,6 +6,7 @@ file: /courses/18-014-calculus-with-theory-fall-2010/4eb743f81e7804ecd48bf8e8a60
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: MIT18_014F10_pset4sols.pdf
 uid: 4eb743f8-1e78-04ec-d48b-f8e8a60d4a40
 ---
 This resource contains 6 solutions about limit formulas, graph, theorem 3.5 and define a function f(x).
-

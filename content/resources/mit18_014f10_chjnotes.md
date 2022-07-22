@@ -5,6 +5,7 @@ file: /courses/18-014-calculus-with-theory-fall-2010/15694ffbb31f9061bbe041a05f5
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Course Notes
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: MIT18_014F10_ChJnotes.pdf
 uid: 15694ffb-b31f-9061-bbe0-41a05f5433aa
 ---
 This resource contains information about exercises on derivatives.
-

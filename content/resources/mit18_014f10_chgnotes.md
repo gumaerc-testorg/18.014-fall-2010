@@ -6,6 +6,7 @@ file: /courses/18-014-calculus-with-theory-fall-2010/e6980e6d5d40b281c9bcb94436d
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Course Notes
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: MIT18_014F10_ChGnotes.pdf
 uid: e6980e6d-5d40-b281-c9bc-b94436df2196
 ---
 This resource contains information about rational exponents – an application of the intermediate-value theorem.
-

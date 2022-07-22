@@ -5,6 +5,7 @@ file: /courses/18-014-calculus-with-theory-fall-2010/d5305fffd94bc1db8da13d6c9e2
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Course Notes
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: MIT18_014F10_course_notes.pdf
 uid: d5305fff-d94b-c1db-8da1-3d6c9e2cce82
 ---
 This resource contains information about all course notes.
-
