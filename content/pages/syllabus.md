@@ -1,5 +1,10 @@
 ---
 content_type: page
+description: This syllabus section provides the course description and information
+  on meeting times, textbook, prerequisites, recitation assignments, problem sets,
+  exams, grading, and the schedule of lecture topics, exams, and assignment due dates.
+learning_resource_types: []
+ocw_type: CourseSection
 title: Syllabus
 uid: a82f8a68-143e-8691-fe35-eac0852f703b
 ---
@@ -18,7 +23,7 @@ Apostol, Tom M. _Calculus, Volume 1: One-Variable Calculus, with An Introduction
 
 (Vol. 2 will be needed for those who wish to continue on to 18.024 Multivariable calculus with theory.)
 
-Additional [course notes](http://ocw2.mit.edu/courses/mathematics/18-014-calculus-with-theory-fall-2010/course-notes) by James Raymond Munkres, Professor of Mathematics, Emeritus, are also provided.
+Additional {{% resource_link 525fc43f-560b-3421-6094-8a3bd93e93d6 "course notes" %}} by James Raymond Munkres, Professor of Mathematics, Emeritus, are also provided.
 
 Prerequisites
 -------------

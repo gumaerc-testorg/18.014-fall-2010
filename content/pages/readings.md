@@ -1,12 +1,17 @@
 ---
 content_type: page
+description: This section provides the list of readings from the textbook and course
+  notes assigned for each session of the course.
+learning_resource_types:
+- Readings
+ocw_type: CourseSection
 title: Readings
 uid: 34622854-071f-3cf6-f005-d040e07f372a
 ---
 
 Apostol, Tom M. _Calculus, Volume 1: One-Variable Calculus, with An Introduction to Linear Algebra_. Waltham, Mass: Blaisdell, 1967. ISBN: 9780471000051.
 
- Additional [course notes]({{< baseurl >}}/pages/course-notes) by James Raymond Munkres, Professor of Mathematics, Emeritus, are also provided. 
+ Additional {{% resource_link 525fc43f-560b-3421-6094-8a3bd93e93d6 "course notes" %}} by James Raymond Munkres, Professor of Mathematics, Emeritus, are also provided. 
 
 {{< tableopen >}}
 {{< theadopen >}}
@@ -74,7 +79,7 @@ Integers, induction, sigma notation
 I 4.1-4.6
 {{< tdclose >}}
 {{< tdopen >}}
-[Course Notes A]({{< baseurl >}}/pages/course-notes#Integers_and_exponents)
+{{% resource_link 525fc43f-560b-3421-6094-8a3bd93e93d6 "Course Notes A" "#Integers_and_exponents" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -89,7 +94,7 @@ Least upper bound, triangle inequality
 I 3.8-3.10, I 4.8
 {{< tdclose >}}
 {{< tdopen >}}
-[Course Notes B]({{< baseurl >}}/pages/course-notes#Square_roots)
+{{% resource_link 525fc43f-560b-3421-6094-8a3bd93e93d6 "Course Notes B" "#Square_roots" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -140,7 +145,7 @@ Properties of the integral, Riemann condition
  
 {{< tdclose >}}
 {{< tdopen >}}
-[Course Notes C]({{< baseurl >}}/pages/course-notes#The_Riemann_condition)
+{{% resource_link 525fc43f-560b-3421-6094-8a3bd93e93d6 "Course Notes C" "#The_Riemann_condition" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -155,7 +160,7 @@ Proofs of integral properties
 88-90, 113-114
 {{< tdclose >}}
 {{< tdopen >}}
-[Course Notes D]({{< baseurl >}}/pages/course-notes#Properties_of_integrals)
+{{% resource_link 525fc43f-560b-3421-6094-8a3bd93e93d6 "Course Notes D" "#Properties_of_integrals" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -170,7 +175,7 @@ Piecewise, monotonic functions
 1.20-1.21
 {{< tdclose >}}
 {{< tdopen >}}
-[Course Notes E]({{< baseurl >}}/pages/course-notes#Integrability_of_bounded_piecewise)
+{{% resource_link 525fc43f-560b-3421-6094-8a3bd93e93d6 "Course Notes E" "#Integrability_of_bounded_piecewise" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -191,7 +196,7 @@ Limits and continuity defined
 3.1-3.4
 {{< tdclose >}}
 {{< tdopen >}}
-[Course Notes F]({{< baseurl >}}/pages/course-notes#Continuity_of_the_square_root_function)
+{{% resource_link 525fc43f-560b-3421-6094-8a3bd93e93d6 "Course Notes F" "#Continuity_of_the_square_root_function" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -251,7 +256,7 @@ Inverse functions
 3.12-3.14
 {{< tdclose >}}
 {{< tdopen >}}
-[Course Notes G]({{< baseurl >}}/pages/course-notes#Rational_exponents)
+{{% resource_link 525fc43f-560b-3421-6094-8a3bd93e93d6 "Course Notes G" "#Rational_exponents" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -266,7 +271,7 @@ Extreme value theorem and uniform continuity
 3.16-3.18
 {{< tdclose >}}
 {{< tdopen >}}
-[Course Notes H]({{< baseurl >}}/pages/course-notes#The_small_span_theorem)
+{{% resource_link 525fc43f-560b-3421-6094-8a3bd93e93d6 "Course Notes H" "#The_small_span_theorem" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -302,7 +307,7 @@ Composite and inverse functions
 4.10, 6.20
 {{< tdclose >}}
 {{< tdopen >}}
-[Course Notes I]({{< baseurl >}}/pages/course-notes#Theorem_and_proof)
+{{% resource_link 525fc43f-560b-3421-6094-8a3bd93e93d6 "Course Notes I" "#Theorem_and_proof" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -332,7 +337,7 @@ Fundamental theorem of calculus
 5.1-5.3
 {{< tdclose >}}
 {{< tdopen >}}
-[Course Notes K]({{< baseurl >}}/pages/course-notes#The_fundamental_theorems_of_calculus)
+{{% resource_link 525fc43f-560b-3421-6094-8a3bd93e93d6 "Course Notes K" "#The_fundamental_theorems_of_calculus" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -347,7 +352,7 @@ Trigonometric functions
  
 {{< tdclose >}}
 {{< tdopen >}}
-[Course Notes L]({{< baseurl >}}/pages/course-notes#The_trigonometric_functions)
+{{% resource_link 525fc43f-560b-3421-6094-8a3bd93e93d6 "Course Notes L" "#The_trigonometric_functions" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -368,7 +373,7 @@ Logs and exponentials
 6.3-6.7, 6.12-6.16
 {{< tdclose >}}
 {{< tdopen >}}
-[Course Notes M]({{< baseurl >}}/pages/course-notes#The_exponential_and_logarithm_functions)
+{{% resource_link 525fc43f-560b-3421-6094-8a3bd93e93d6 "Course Notes M" "#The_exponential_and_logarithm_functions" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -383,7 +388,7 @@ IBP and substitution
 5.7, 5.9
 {{< tdclose >}}
 {{< tdopen >}}
-[Course Notes N]({{< baseurl >}}/pages/course-notes#Integration)
+{{% resource_link 525fc43f-560b-3421-6094-8a3bd93e93d6 "Course Notes N" "#Integration" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -428,7 +433,7 @@ Partial fractions
 6.23
 {{< tdclose >}}
 {{< tdopen >}}
-[Course Notes N]({{< baseurl >}}/pages/course-notes#Integration)
+{{% resource_link 525fc43f-560b-3421-6094-8a3bd93e93d6 "Course Notes N" "#Integration" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -464,7 +469,7 @@ Proof of Taylor's formula
  
 {{< tdclose >}}
 {{< tdopen >}}
-[Course Notes O]({{< baseurl >}}/pages/course-notes#Taylor_s_formula)
+{{% resource_link 525fc43f-560b-3421-6094-8a3bd93e93d6 "Course Notes O" "#Taylor_s_formula" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -479,7 +484,7 @@ L'Hopital's rule and infinite limits
 7.12-7.16
 {{< tdclose >}}
 {{< tdopen >}}
-[Course Notes P]({{< baseurl >}}/pages/course-notes#L_Hopital_s_rule_for_0_0)
+{{% resource_link 525fc43f-560b-3421-6094-8a3bd93e93d6 "Course Notes P" "#L_Hopital_s_rule_for_0_0" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -530,7 +535,7 @@ Tests: comparison, root, ratio
 10.12, 10.15
 {{< tdclose >}}
 {{< tdopen >}}
-[Course Notes Q]({{< baseurl >}}/pages/course-notes#Notes_on_error_estimates)
+{{% resource_link 525fc43f-560b-3421-6094-8a3bd93e93d6 "Course Notes Q" "#Notes_on_error_estimates" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -596,7 +601,7 @@ Power series
 11.3-11.4
 {{< tdclose >}}
 {{< tdopen >}}
-[Course Notes R]({{< baseurl >}}/pages/course-notes#The_basic_theorems_on_power_series)
+{{% resource_link 525fc43f-560b-3421-6094-8a3bd93e93d6 "Course Notes R" "#The_basic_theorems_on_power_series" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -611,7 +616,7 @@ Properties of power series
  
 {{< tdclose >}}
 {{< tdopen >}}
-[Course Notes R]({{< baseurl >}}/pages/course-notes#The_basic_theorems_on_power_series)
+{{% resource_link 525fc43f-560b-3421-6094-8a3bd93e93d6 "Course Notes R" "#The_basic_theorems_on_power_series" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -626,7 +631,7 @@ Taylor series
 11.9
 {{< tdclose >}}
 {{< tdopen >}}
-[Course Notes S]({{< baseurl >}}/pages/course-notes#A_family_of_non-analytic_functions)
+{{% resource_link 525fc43f-560b-3421-6094-8a3bd93e93d6 "Course Notes S" "#A_family_of_non-analytic_functions" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -641,7 +646,7 @@ Fourier series
  
 {{< tdclose >}}
 {{< tdopen >}}
-[Course Notes T]({{< baseurl >}}/pages/course-notes#Fourier_Series)
+{{% resource_link 525fc43f-560b-3421-6094-8a3bd93e93d6 "Course Notes T" "#Fourier_Series" %}}
 {{< tdclose >}}
 
 {{< trclose >}}

@@ -1,5 +1,10 @@
 ---
 content_type: page
+description: This section lists the problems reviewed from the course textbook for
+  each recitation of the course.
+learning_resource_types:
+- Recitations
+ocw_type: CourseSection
 title: Recitations
 uid: 383b3314-0d99-963a-ac76-a77dbd8a0dbf
 ---
@@ -221,7 +226,7 @@ Take the practice exam
 22
 {{< tdclose >}}
 {{< tdopen >}}
-Page 216: 3, 11; page 220:1; integrate ∫xn log x dx for each n ϵ Z using IBP or substitution.
+Page 216: 3, 11; page 220:1; integrate ∫x{{< sup "n" >}} log x dx for each n ϵ Z using IBP or substitution.
 {{< tdclose >}}
 
 {{< trclose >}}
