@@ -2,6 +2,7 @@
 content_type: resource
 description: This resource contains information about fourier series.
 file: /courses/18-014-calculus-with-theory-fall-2010/e89e486cd574573504df22217846184c_MIT18_014F10_ChTnotes.pdf
+file_size: 384168
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
