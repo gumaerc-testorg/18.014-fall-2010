@@ -2,6 +2,7 @@
 content_type: resource
 description: This resource contains information about integration.
 file: /courses/18-014-calculus-with-theory-fall-2010/d915532547a80d9d21007c57e59c3e0a_MIT18_014F10_ChNnotes.pdf
+file_size: 134531
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

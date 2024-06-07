@@ -3,6 +3,7 @@ content_type: resource
 description: This resource contains information about the small span theorem and the
   extreme-value theorem.
 file: /courses/18-014-calculus-with-theory-fall-2010/f7e715385a1d9981c231d12d2526a115_MIT18_014F10_ChHnotes.pdf
+file_size: 289470
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
