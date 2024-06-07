@@ -3,6 +3,7 @@ content_type: resource
 description: This resource contains information about the exponential and logarithm
   functions.
 file: /courses/18-014-calculus-with-theory-fall-2010/90ae0c0f8718e4758a3acc2f28f9137e_MIT18_014F10_ChMnotes.pdf
+file_size: 265296
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

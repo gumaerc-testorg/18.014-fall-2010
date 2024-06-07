@@ -3,6 +3,7 @@ content_type: resource
 description: "This resource contains information about Taylor approximations rather\
   \ than L\u2019Hopital, series converge and definition of the derivative."
 file: /courses/18-014-calculus-with-theory-fall-2010/f25a2e406f542fc1c80cb29b7b053fe3_MIT18_014F10_final_pr_ex.pdf
+file_size: 129130
 file_type: application/pdf
 learning_resource_types:
 - Exams

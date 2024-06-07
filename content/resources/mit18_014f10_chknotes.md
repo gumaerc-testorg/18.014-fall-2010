@@ -3,6 +3,7 @@ content_type: resource
 description: This resource contains information about the fundamental theorems of
   calculus.
 file: /courses/18-014-calculus-with-theory-fall-2010/0bb53fb4d506315c6fab4d5cd61c8e15_MIT18_014F10_ChKnotes.pdf
+file_size: 238487
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
