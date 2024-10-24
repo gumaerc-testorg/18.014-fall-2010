@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource contains information about integers and exponents.
-file: /courses/18-014-calculus-with-theory-fall-2010/8e7d938b7de8c48c33373dfc8f27461b_MIT18_014F10_ChAnotes.pdf
+file: /ol-ocw-studio-app/courses/18-014-calculus-with-theory-fall-2010/8e7d938b7de8c48c33373dfc8f27461b_MIT18_014F10_ChAnotes.pdf
 file_size: 237071
 file_type: application/pdf
 learning_resource_types:
