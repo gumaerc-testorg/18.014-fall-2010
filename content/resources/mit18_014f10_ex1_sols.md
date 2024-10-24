@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource contains information about integrable function and Properties
   of the integral imply.
-file: /courses/18-014-calculus-with-theory-fall-2010/57ad34b81ffac7858c38f3985d07a397_MIT18_014F10_ex1_sols.pdf
+file: /ol-ocw-studio-app/courses/18-014-calculus-with-theory-fall-2010/57ad34b81ffac7858c38f3985d07a397_MIT18_014F10_ex1_sols.pdf
 file_size: 98440
 file_type: application/pdf
 learning_resource_types:
