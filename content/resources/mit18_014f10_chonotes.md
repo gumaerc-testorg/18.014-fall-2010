@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: "This resource contains information about \ttaylor's formula."
-file: /courses/18-014-calculus-with-theory-fall-2010/04f26bc51297b857681b4c91df24c7b6_MIT18_014F10_ChOnotes.pdf
+file: /ol-ocw-studio-app/courses/18-014-calculus-with-theory-fall-2010/04f26bc51297b857681b4c91df24c7b6_MIT18_014F10_ChOnotes.pdf
 file_size: 302953
 file_type: application/pdf
 learning_resource_types:
