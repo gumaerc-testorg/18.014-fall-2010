@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource contains information about the trigonometric functions.
-file: /ol-ocw-studio-app/courses/18-014-calculus-with-theory-fall-2010/f231ac7611750534a668b22b99dd760f_MIT18_014F10_ChLnotes.pdf
+file: /courses/18-014-calculus-with-theory-fall-2010/f231ac7611750534a668b22b99dd760f_MIT18_014F10_ChLnotes.pdf
 file_size: 262621
 file_type: application/pdf
 learning_resource_types:
