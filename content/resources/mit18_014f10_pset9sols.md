@@ -2,7 +2,7 @@
 content_type: resource
 description: "This resource contains problem about Integration techniques/Taylor\u2019\
   s formula."
-file: /ol-ocw-studio-app/courses/18-014-calculus-with-theory-fall-2010/c0605d6d0e5b12d93a7c435d9fe01bf1_MIT18_014F10_pset9sols.pdf
+file: /courses/18-014-calculus-with-theory-fall-2010/c0605d6d0e5b12d93a7c435d9fe01bf1_MIT18_014F10_pset9sols.pdf
 file_size: 204201
 file_type: application/pdf
 learning_resource_types:
