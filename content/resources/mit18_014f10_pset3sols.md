@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource contains 3 solutions about values of c, g(x)= x over the
   interval and step functions s(x) and t(x).
-file: /courses/18-014-calculus-with-theory-fall-2010/5c152dbbd419ed45b6ccf8810edf6211_MIT18_014F10_pset3sols.pdf
+file: /ol-ocw-studio-app/courses/18-014-calculus-with-theory-fall-2010/5c152dbbd419ed45b6ccf8810edf6211_MIT18_014F10_pset3sols.pdf
 file_size: 155298
 file_type: application/pdf
 learning_resource_types:

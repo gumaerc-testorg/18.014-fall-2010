@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource contains information about practice exam 2 solutions.
-file: /courses/18-014-calculus-with-theory-fall-2010/117f0a320401967041fe274a1058c27f_MIT18_014F10_pr_ex2_sols.pdf
+file: /ol-ocw-studio-app/courses/18-014-calculus-with-theory-fall-2010/117f0a320401967041fe274a1058c27f_MIT18_014F10_pr_ex2_sols.pdf
 file_size: 111310
 file_type: application/pdf
 learning_resource_types:

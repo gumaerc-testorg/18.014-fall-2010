@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource contains information about notes on error estimates.
-file: /courses/18-014-calculus-with-theory-fall-2010/3b503876d1d0efca491a1440e2e1d9ce_MIT18_014F10_ChQnotes.pdf
+file: /ol-ocw-studio-app/courses/18-014-calculus-with-theory-fall-2010/3b503876d1d0efca491a1440e2e1d9ce_MIT18_014F10_ChQnotes.pdf
 file_size: 72280
 file_type: application/pdf
 learning_resource_types:

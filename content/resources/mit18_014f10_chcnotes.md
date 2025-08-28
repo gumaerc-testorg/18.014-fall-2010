@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource contains information about the Riemann condition.
-file: /courses/18-014-calculus-with-theory-fall-2010/a34bec8f9e5f9390df8843bfab35168a_MIT18_014F10_ChCnotes.pdf
+file: /ol-ocw-studio-app/courses/18-014-calculus-with-theory-fall-2010/a34bec8f9e5f9390df8843bfab35168a_MIT18_014F10_ChCnotes.pdf
 file_size: 217818
 file_type: application/pdf
 learning_resource_types:

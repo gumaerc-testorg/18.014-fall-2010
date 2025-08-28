@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource contains 6 solutions about limit formulas, graph, theorem
   3.5 and define a function f(x).
-file: /courses/18-014-calculus-with-theory-fall-2010/4eb743f81e7804ecd48bf8e8a60d4a40_MIT18_014F10_pset4sols.pdf
+file: /ol-ocw-studio-app/courses/18-014-calculus-with-theory-fall-2010/4eb743f81e7804ecd48bf8e8a60d4a40_MIT18_014F10_pset4sols.pdf
 file_size: 167681
 file_type: application/pdf
 learning_resource_types:
