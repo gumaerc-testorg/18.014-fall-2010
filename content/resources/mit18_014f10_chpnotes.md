@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource contains information about L'Hopital's rule for 0/0.
-file: /courses/18-014-calculus-with-theory-fall-2010/2c0343ad5c381cc11811eb45745d8dd9_MIT18_014F10_ChPnotes.pdf
+file: /ol-ocw-studio-app/courses/18-014-calculus-with-theory-fall-2010/2c0343ad5c381cc11811eb45745d8dd9_MIT18_014F10_ChPnotes.pdf
 file_size: 191033
 file_type: application/pdf
 learning_resource_types:

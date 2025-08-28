@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource contains information about exercises on derivatives.
-file: /courses/18-014-calculus-with-theory-fall-2010/15694ffbb31f9061bbe041a05f5433aa_MIT18_014F10_ChJnotes.pdf
+file: /ol-ocw-studio-app/courses/18-014-calculus-with-theory-fall-2010/15694ffbb31f9061bbe041a05f5433aa_MIT18_014F10_ChJnotes.pdf
 file_size: 81408
 file_type: application/pdf
 learning_resource_types:
